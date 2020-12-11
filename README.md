@@ -1,0 +1,1 @@
+# Preditction-of-MA-Cases-Based-on-Linear-Regression
